@@ -1,0 +1,44 @@
+{
+  "user": {
+    "username": "",
+    "passwordHash": "",
+    "assignedRealm": "",
+    "roleTitle": "",
+    "avatarId": "avatar_01_dreamer",
+    "characterSpriteId": "character_sprite_01_dreamer",
+    "email": "",
+    "isPermanentResident": false,
+    "quizCompleted": false,
+    "chatBubbleStyle": "default"
+  },
+  "realms": {
+    "cafe": {
+      "colorIntensity": 1,
+      "messages": [],
+      "forumTopics": []
+    },
+    "garden": {
+      "colorIntensity": 1,
+      "messages": [],
+      "forumTopics": []
+    },
+    "zen": {
+      "colorIntensity": 1,
+      "messages": [],
+      "forumTopics": []
+    },
+    "sanctuary": {
+      "colorIntensity": 1,
+      "messages": [],
+      "forumTopics": []
+    },
+    "archives": {
+      "colorIntensity": 1,
+      "messages": [],
+      "forumTopics": []
+    }
+  },
+  "museum": {
+    "visitedMagazines": []
+  }
+}
