@@ -1,0 +1,200 @@
+// Asset Map (Read-Only)
+// Edit assets in the Media tab.
+// Use these IDs alongside lib to reference assets in your code:
+//
+// Example: lib.getAsset["player_sprite"]
+
+const assets = {
+  "avatar_01_dreamer": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/avatar_01_dreamer_4e80e4cb-25ee-43d0-9808-cd50e591ef89.webp",
+    "type": "image",
+    "aspect_ratio": [
+      643,
+      1455
+    ]
+  },
+  "avatar_02_scholar": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/avatar_02_scholar_8ab0b089-6174-468a-b29b-08f0189ea478.webp",
+    "type": "image",
+    "aspect_ratio": [
+      576,
+      956
+    ]
+  },
+  "avatar_03_guardian": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/avatar_03_guardian_bc441806-9f8b-4a33-9480-c2c4ab701423.webp",
+    "type": "image",
+    "aspect_ratio": [
+      744,
+      1432
+    ]
+  },
+  "avatar_04_creator": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/avatar_04_creator_b84e5041-acfe-4285-81e2-24e4a0feaba1.webp",
+    "type": "image",
+    "aspect_ratio": [
+      841,
+      1403
+    ]
+  },
+  "avatar_05_wanderer": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/avatar_05_wanderer_520c1964-8e40-4b98-950f-c2c7fee97f19.webp",
+    "type": "image",
+    "aspect_ratio": [
+      649,
+      1412
+    ]
+  },
+  "character_sprite_01_dreamer": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/character_sprite_01_dreamer_453d0a81-ff70-4fe4-8de9-3f05de9b8df1.webp",
+    "type": "image",
+    "aspect_ratio": [
+      546,
+      1225
+    ]
+  },
+  "character_sprite_02_scholar": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/character_sprite_02_scholar_ddf2047e-8ce4-4654-9722-8e1ca956f7a4.webp",
+    "type": "image",
+    "aspect_ratio": [
+      746,
+      1224
+    ]
+  },
+  "character_sprite_03_guardian": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/character_sprite_03_guardian_3b727ad0-60ae-40fd-a9dc-5455b590a721.webp",
+    "type": "image",
+    "aspect_ratio": [
+      648,
+      1247
+    ]
+  },
+  "character_sprite_04_creator": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/character_sprite_04_creator_bcbc7ea8-da66-4484-ac3b-fb3c10f625e8.webp",
+    "type": "image",
+    "aspect_ratio": [
+      748,
+      1248
+    ]
+  },
+  "character_sprite_05_wanderer": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/character_sprite_05_wanderer_f440ceb0-2202-4cb6-9eb8-41c0d4094a0d.webp",
+    "type": "image",
+    "aspect_ratio": [
+      558,
+      1205
+    ]
+  },
+  "magazine_cover_the_escape": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/magazine_cover_the_escape_8e13fa7e-2600-4919-81b6-28669f5c28dd.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1536
+    ]
+  },
+  "magazine_cover_kingdom_lore": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/magazine_cover_kingdom_lore_86a3bdbf-18e1-4f13-b364-9324cf747c1a.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1536
+    ]
+  },
+  "magazine_cover_the_cafe": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/magazine_cover_the_cafe_8e73c36d-cc0b-4ae9-83bf-d315a46b65e0.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1536
+    ]
+  },
+  "magazine_cover_the_archives": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/magazine_cover_the_archives_f0157c1d-c700-4c73-8cd2-b15d1aa08ccf.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1536
+    ]
+  },
+  "player_card_template": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/player_card_template_55dcef66-0728-4934-a0b8-fe9b67da40a7.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1536
+    ]
+  },
+  "museum_background": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/museum_background_31f4911e-1564-42f6-a154-bf43486b62e7.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1024,
+      1024
+    ]
+  },
+  "realm_icon_cafe": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/realm_icon_cafe_81cc55c7-03c9-4d86-8f54-b31c2be4e72d.webp",
+    "type": "image",
+    "aspect_ratio": [
+      913,
+      898
+    ]
+  },
+  "realm_icon_garden": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/realm_icon_garden_1abd7976-1e62-407d-a62b-cc7e8999fba2.webp",
+    "type": "image",
+    "aspect_ratio": [
+      888,
+      876
+    ]
+  },
+  "realm_icon_zen": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/realm_icon_zen_50c2666c-f180-4b74-9234-d4f5b426b523.webp",
+    "type": "image",
+    "aspect_ratio": [
+      825,
+      825
+    ]
+  },
+  "realm_icon_sanctuary": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/realm_icon_sanctuary_c69dc7f5-b6a4-42d5-996b-0b900fc269c9.webp",
+    "type": "image",
+    "aspect_ratio": [
+      784,
+      909
+    ]
+  },
+  "realm_icon_archives": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/realm_icon_archives_062eb9a4-a24a-4fcc-a404-c34be3f6c1b8.webp",
+    "type": "image",
+    "aspect_ratio": [
+      867,
+      829
+    ]
+  },
+  "ambient_breathing_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/ambient_breathing_sound_e957a4c9-f125-45df-a88a-0734483ca0de.mp3",
+    "type": "audio"
+  },
+  "ui_click_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/ui_click_sound_503b7176-470b-466f-8587-40613b5ea27c.mp3",
+    "type": "audio"
+  },
+  "quiz_complete_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/quiz_complete_sound_c1ead091-03e2-4865-a15b-d52f07f22b3a.mp3",
+    "type": "audio"
+  },
+  "message_send_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/message_send_sound_b999a240-2089-4a27-8e02-fd61235d66fa.mp3",
+    "type": "audio"
+  },
+  "museum_ambient_music": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/music/museum_ambient_music_b6ae7334-514f-4da1-93ed-f46c97a66d32.mp3",
+    "type": "audio"
+  },
+  "forum_post_sound": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/sounds/effect/forum_post_sound_ea461201-2be8-47f4-abff-7227a9e39916.mp3",
+    "type": "audio"
+  }
+};
